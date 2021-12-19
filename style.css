@@ -1,0 +1,36 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+h1,p{
+    color: wheat;
+    font-family: monospace;
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    padding: 7px;
+    left: 0%;
+    bottom: 0%;
+    width: 90%;
+    background-color: transparent;
+    color: wheat;
+    text-align: left;
+    font-size: 7px;
+    font-family: monospace;
+}
+
+.kukka{
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+a{
+    color: wheat;
+    text-decoration: none;
+    
+}
